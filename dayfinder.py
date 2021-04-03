@@ -1,3 +1,5 @@
+#This program is to find the last Thursday of the given month. 
+
 # Import Module
 import datetime
 
